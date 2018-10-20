@@ -10,5 +10,5 @@ def countdown(n)
 end
 
 def countdown_with_sleep(s)
-  countdown.sleep(s)
+  sleep(s)
 end
